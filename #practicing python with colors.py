@@ -1,4 +1,4 @@
-from colorama import Fore, Style
+from colorama import Fore, Style # type: ignore
 
 name = input("Enter your name: ")
 
